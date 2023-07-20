@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobnelson/bootcamp/projects/c-sharp-intro/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "/Users/jacobnelson/bootcamp/projects/post-bc-study/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
       "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "/Users/jacobnelson/bootcamp/projects/c-sharp-intro/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectPath": "/Users/jacobnelson/bootcamp/projects/post-bc-study/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
       "packagesPath": "/Users/jacobnelson/.nuget/packages/",
-      "outputPath": "/Users/jacobnelson/bootcamp/projects/c-sharp-intro/CatWorx.BadgeMaker/obj/",
+      "outputPath": "/Users/jacobnelson/bootcamp/projects/post-bc-study/CatWorx.BadgeMaker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jacobnelson/.nuget/NuGet/NuGet.Config"

@@ -19,7 +19,7 @@ namespace CatWorx.BadgeMaker
 
       string stringNum = "2";
       int intNum = Convert.ToInt32(stringNum);
-      Console.WriteLine(stringNum);
+      Console.WriteLine(intNum.GetType());
       Console.WriteLine(intNum);
     }
   }
